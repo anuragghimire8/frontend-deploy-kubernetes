@@ -17,6 +17,7 @@
     "braintree-web-drop-in-react": "^1.2.1",
     "concurrently": "^8.0.1",
     "cors": "^2.8.5",
+    "docker": "^1.0.0",
     "moment": "^2.29.4",
     "momment": "^0.0.1",
     "nepali-datetime": "^1.2.0",
